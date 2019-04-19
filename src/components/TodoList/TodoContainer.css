@@ -1,0 +1,10 @@
+.todoContainer_content {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.todoContainer_title {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+}

@@ -1,0 +1,8 @@
+.todo_content {
+  padding: 3px;
+}
+.todo_title {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+}
