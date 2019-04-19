@@ -1,0 +1,15 @@
+.todoList_content {
+  width: 70%;
+}
+.todoList_header {
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+}
+.todoList_title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 800;
+}
